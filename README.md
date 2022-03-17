@@ -5,7 +5,7 @@ Use [@uirouter](https://ui-router.github.io/) to handle routes.
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
 可以访问下列url直接看到不同的页面状态：
